@@ -1,2 +1,5 @@
-# calculation-and-optimization-drone-software
-Drone calculation and optimization.Application used to find the optimum component's performance through the use of Pareto chart. Performance calculator. binder deploys a file
+# calculation and optimization drone software
+
+Selection of the optimal drone components from Pareto's chart.
+Mathematical optimization of drone's performance and characteristics.
+Optimization of the drone systems from decision trees 
